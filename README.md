@@ -5,7 +5,7 @@
 
 [![Grupo de WhatsApp](https://img.shields.io/badge/GRUPO_OFICIAL_1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/CBoAGmEFcCy44xIoWBSgzJ)
 
-[![Grupo de WhatsApp](https://img.shields.io/badge/GRUPO_OFICIAL_2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/DDm7HC6e5MF9qcdLqB22RQ)
+[![Grupo de WhatsApp](https://img.shields.io/badge/GRUPO_OFICIAL_2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/K24yEXY9okI03gcFkW0u1D)
 
 [![Grupo de WhatsApp](https://img.shields.io/badge/GRUPO_OFICIAL_3-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/EJAs18qwQkg3x2zujNkUE4)
 
