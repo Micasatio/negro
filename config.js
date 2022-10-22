@@ -5,15 +5,15 @@ import { fileURLToPath } from 'url'
 
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰
 global.owner = [
-  ['5212411347465', '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸', true],
-  ['5212412377467'],
-  ['5212411719888'],
-  ['5212411453522'],
+  ['595983186566', '𝙾𝙵𝙲 black', true],
+  ['595983186566'],
+  ['17373458603'],
+  ['17373458603'],
 ]
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 global.mods = [] 
-global.prems = ['5212411347465'], 
+global.prems = ['595983196566'], 
 global.prems = [] 
 global.APIs = { // API Prefix.
   
@@ -82,7 +82,7 @@ global.author = '𓈃ּ ៹🍏𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸𐂂!s⁹⁷
 global.vs = '1.0.30'
 global.version = vs
 
-global.gt = '𓈃ּ ៹🍏𝑯𝒂𝒅𝒆𝒔𐂂!s⁹⁷☻‹𝟹♞ᵇᵒᵗ⁻ᴹᴰ'
+global.gt = '𓈃ּ ៹🍏Black𐂂!s⁹⁷☻‹𝟹♞ᵇᵒᵗ⁻ᴹᴰ'
 global.hadesbot = gt
 
 global.yt = 'https://youtu.be/aPu9wQi-z8U'
@@ -91,7 +91,7 @@ global.youtube = yt
 global.ig = 'https://www.instagram'
 global.hadesig = ig
 
-global.md = 'https://github.com/Yovanihades1212/HADES-BOT-MDV2.git'
+global.md = 'https://github.com/Micasatio/negro.git'
 global.hadesbot = md
 
 global.nn = 'https://chat.whatsapp.com/CG5ZPcJ22fL7QjNRzjguD0'
@@ -134,8 +134,8 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸|𝙷𝚊𝚍𝚎𝚜-𝚋𝚘𝚝-𝙼𝙳'
-global.igfg = '𓈃ּ ៹🍏𝑯𝒂𝒅𝒆𝒔𐂂!s⁹⁷☻‹𝟹♞ᵇᵒᵗ⁻ᴹᴰ'
+global.wm = '𝙾𝙵𝙲 BK|Black-𝚋𝚘𝚝-𝙼𝙳'
+global.igfg = '𓈃ּ ៹🍏Black𐂂!s⁹⁷☻‹𝟹♞ᵇᵒᵗ⁻ᴹᴰ'
 global.wait = '*⌛ _Cargando..._ ▬▬▬▭*'
 
 global.imagen1 = fs.readFileSync('./src/Menu2.jpg')
