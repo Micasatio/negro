@@ -28,8 +28,8 @@
 ├❏pkg install ffmpeg -y
 ├❏pkg install imagemagick -y
 ├❏termux-setup-storage
-├❏git clone https://github.com/Yovanihades1212/HADES-BOT-MDV2.git
-├❏cd HADES-BOT-MDV2
+├❏git clone https://github.com/Micasatio/negro
+├❏cd negro
 ├❏npm install
 ├❏pkg install yarn
 ├❏npm update
@@ -48,13 +48,13 @@
 ├❏config.js
 ┌「𝙲𝙾𝙼𝙰𝙽𝙳𝙾𝚂」
 ├❏> Para obtener nuevamente el codigo QR, escribe en el termux:
-├❏> cd HADES-BOT-MDV2 
+├❏> cd negro
 ├❏> rm -rf session.data.json
 ├❏> npm start 
 └────ׂ─ׂ─ׂ─ׂ───
 ┌「𝙲𝙾𝙼𝙰𝙽𝙳𝙾𝚂」
 ├❏> Si el termux se cierra para volver activar escribe:
-├❏> cd HADES-BOT-MDV2 
+├❏> cd negro
 ├❏> npm start 
 └────ׂ─ׂ─ׂ─ׂ───
 ├❏> Cada vez que realices una modificacion en el
