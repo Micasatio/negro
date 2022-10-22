@@ -26,17 +26,14 @@ let str = `
 │◦➛ ๖ۣۜۜ͜͡𝐇𝐨𝐥𝐚ঔৣֳ᷌᷈͜͡ 💖✨ HOLA TE ENVIAMOS 
 │◦➛☃️️ᩭ✎UNIRTE AL LOS💖 GRUPOS 
 │◦➛🌹️ᩭ✎OFICIALES DEL BOT DE👩‍🏫✨
-│◦➛🍃️ᩭ✎𝐇𝐀𝐃𝐄𝐒 _𝐁𝐎𝐓 y miku bot 
-│◦➛📚️ᩭ✎ SOMOS UNA FAMILIA DE BOTS 
-│◦➛🌆ᩭ✎𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃 𝚈 𝙼𝙸𝙺𝚄-𝙱𝙾𝚃1 
-│◦➛🍀ᩭ✎https://chat.whatsapp.com/CG5ZPcJ22fL7QjNRzjguD0
-│◦➛☘️ᩭ✎𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃 𝚈 𝙼𝙸𝙺𝚄-𝙱𝙾𝚃2 
-│◦➛✨ᩭ✎https://chat.whatsapp.com/DDm7HC6e5MF9qcdLqB22RQ
-│◦➛📚ᩭ✎𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃 𝚈 𝙼𝙸𝙺𝚄-𝙱𝙾𝚃3 
-│◦➛❤️ᩭ✎https://chat.whatsapp.com/KnpPbr8BN4VDLtwJFMNTtw
-│◦➛🌱ᩭ✎𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃 𝚈 𝙼𝙸𝙺𝚄-𝙱𝙾𝚃4 
-│◦➛📔ᩭ✎https://chat.whatsapp.com/BtzGZregRxzFswm0FgunHL
-│◦➛🌱𝐎𝐅𝐂 𝐘𝐎𝐕𝐀𝐍𝐈☘️ 
+│◦➛🍃️ᩭ✎BlackBot
+│◦➛🌆ᩭ✎Black1 
+│◦➛🍀ᩭ✎https://chat.whatsapp.com/K24yEXY9okI03gcFkW0u1D
+│◦➛☘️ᩭ✎Black2 
+│◦➛✨ᩭ✎https://chat.whatsapp.com/CBoAGmEFcCy44xIoWBSgzJ
+│◦➛📚ᩭ✎Black3 
+         https://chat.whatsapp.com/EJAs18qwQkg3x2zujNkUE4
+│
 ╰────────────┈⊷
 `.trim()
 let buttons = [
@@ -55,7 +52,7 @@ externalAdReply: {
 showAdAttribution: true,
 mediaType: 'VIDEO',
 mediaUrl: null,
-title: '🍀𝐓𝐇𝐄-𝐇𝐀𝐃𝐄𝐒-𝐁𝐎𝐓-𝐌𝐃✨',
+title: '🍀Black-𝐁𝐎𝐓-𝐌𝐃✨',
 body: null,
 thumbnail: img,
 sourceUrl: `https://youtu.be/HoxZuQokeMM`
