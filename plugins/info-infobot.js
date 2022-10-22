@@ -20,11 +20,11 @@ let neww = performance.now()
 let speed = neww - old
 
 let info = `
-┌──「𓈃ּ ៹🍏𝑯𝒂𝒅𝒆𝒔𐂂!s⁹⁷☻‹𝟹♞ᵇᵒᵗ⁻ᴹᴰ」─
+┌──「𓈃ּ ៹🍏Black𐂂!s⁹⁷☻‹𝟹♞ᵇᵒᵗ⁻ᴹᴰ」─
 ├❏𝐈𝐍𝐅𝐎 𝐃𝐄𝐋 𝐁𝐎𝐓
-├❏ [🤴🏻] 𝙲𝚁𝙴𝙰𝙳𝙾𝚁: YOVANI 
+├❏ [🤴🏻] 𝙲𝚁𝙴𝙰𝙳𝙾𝚁: Bk
 ├❏ [#️⃣] 𝙽𝙾° 𝙳𝙴𝙻 𝙲𝚁𝙴𝙰𝙳𝙾𝚁:
-├❏+5212411347465
+├❏+595 983 186566
 ├❏[🎳] 𝙿𝚁𝙴𝙵𝙸𝙹𝙾: ${usedPrefix}
 ├❏[🔐] 𝙲𝙷𝙰𝚃𝚂 𝙿𝚁𝙸𝚅𝙰𝙳𝙾𝚂: ${chats.length - groups.length}
 ├❏[🦜] 𝙲𝙷𝙰𝚃𝚂 𝙳𝙴 𝙶𝚁𝚄𝙿𝙾𝚂: ${groups.length}
