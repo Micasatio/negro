@@ -16,27 +16,21 @@ let more = String.fromCharCode(8206)
 let readMore = more.repeat(850)   
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
 let str = `
-┌「𓈃ּ ៹🍏𝑯𝒂𝒅𝒆𝒔𐂂!s⁹⁷☻‹𝟹♞ᵇᵒᵗ⁻ᴹᴰ」
+┌「𓈃ּ ៹🍏Black𐂂!s⁹⁷☻‹𝟹♞ᵇᵒᵗ⁻ᴹᴰ」
 ├❏ ๖ۣۜۜ͜͡𝐇𝐨𝐥𝐚ঔৣֳ᷌᷈͜͡ ${taguser}💖✨ 
 ├❏ 📅 𝙵𝙴𝙲𝙷𝙰: ${week}, ${date}
+|
 ├❏ 🔋𝚃𝙸𝙴𝙼𝙿𝙾 𝙰𝙲𝚃𝙸𝚅𝙾: ${uptime}
+|
 ├❏ 📊 𝚄𝚂𝚄𝙰𝚁𝙸𝙾𝚂: ${rtotalreg}
 └────ׂ─ׂ─ׂ─ׂ───
-┌「𓈃ּ ៹🍏𝑯𝒂𝒅𝒆𝒔𐂂!s⁹⁷☻‹𝟹♞ᵇᵒᵗ⁻ᴹᴰ」
+┌「𓈃ּ ៹🍏Blqck𐂂!s⁹⁷☻‹𝟹♞ᵇᵒᵗ⁻ᴹᴰ」
 ├「𝙽𝚄𝙼𝙴𝚁𝙾 𝙳𝙴𝚕 𝙼𝙸 𝙲𝚁𝙴𝙰𝙳𝙾𝚁」
-├❏☘️http://wa.me/5212411719888
+├❏☘️http://wa.me/595983186566
 ├「𝚃𝚞𝚝𝚘𝚛𝚒𝚊𝚕: 𝚙𝚕𝚊𝚢 :」
 ├❏📔https://youtu.be/HoxZuQokeMM
 ├「𝙶𝙸𝚃 𝙲𝙻𝙾𝙽𝙴」
-├❏🌱git clone https://github.com/Yovanihades1212/HADES-BOT-MDV2.git
-├「𝐆𝐫𝐮𝐩𝐨 𝐝𝐞 𝐟𝐚𝐜𝐞𝐛𝐨𝐨𝐤:」
-├❏📚https://www.facebook.com/groups/987464505464904/
-├「яєνєℓα¢ιÓи:」
-├❏✨https://chat.whatsapp.com/LGvb0X9GJM0LXE6yvWIE6x
-├「𝚂𝙴𝚁𝚅𝙸𝙳𝙾𝚁 𝙳𝙴 𝙼𝙸𝙽𝙴𝙲𝚁𝙰𝙵𝚃 」
-├❏🌆http://add.aternos.org/YOVANIBOT
-├「𝐌𝐈𝐊𝐔_𝐁𝐎𝐓」
-├❏☘️https://github.com/Yovanihades1212/MIKU_BOT.git
+├❏🌱git clone https://github.com/Micasatio/negro.git
 └────ׂ─ׂ─ׂ─ׂ───
 `.trim()
 let buttons = [
@@ -55,7 +49,7 @@ externalAdReply: {
 showAdAttribution: true,
 mediaType: 'VIDEO',
 mediaUrl: null,
-title: '🍀𝐓𝐇𝐄-𝐇𝐀𝐃𝐄𝐒-𝐁𝐎𝐓-𝐌𝐃✨',
+title: '🍀Black-𝐁𝐎𝐓-𝐌𝐃✨',
 body: null,
 thumbnail: img,
 sourceUrl: `https://youtu.be/HoxZuQokeMM`
