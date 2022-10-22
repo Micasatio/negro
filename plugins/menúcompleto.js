@@ -16,7 +16,7 @@ let more = String.fromCharCode(8206)
 let readMore = more.repeat(850)   
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
 let str = `
-┌「𓈃ּ ៹🍏𝑯𝒂𝒅𝒆𝒔𐂂!s⁹⁷☻‹𝟹♞ᵇᵒᵗ⁻ᴹᴰ」
+┌「𓈃ּ ៹Black𐂂!s⁹⁷☻‹𝟹♞ᵇᵒᵗ⁻ᴹᴰ」
 ├❏ ๖ۣۜۜ͜͡𝐇𝐨𝐥𝐚ঔৣֳ᷌᷈͜͡ ${taguser}💖✨ 
 ├❏ 📅 𝙵𝙴𝙲𝙷𝙰: ${week}, ${date}
 ├❏ 🔋𝚃𝙸𝙴𝙼𝙿𝙾 𝙰𝙲𝚃𝙸𝚅𝙾: ${uptime}
@@ -223,22 +223,22 @@ let str = `
 ├❏❎${usedPrefix}disable autosticker
 └────ׂ─ׂ─ׂ─ׂ───
 ┌──「🎧𝐀𝐔𝐃𝐈𝐎𝐒」─
-├❏🎧Noche de paz
-├❏🎻Miau
-├❏🎺Buenos dias
+├❏▶️Noche de paz
+├❏▶️Miau
+├❏▶️Buenos dias
 ├❏🎸La cumbia del tilín
-├❏🎷buenas noches
-├❏🎹No pedí tu opinión
-├❏🎤Senpai
-├❏🥁esto va a ser épico
-├❏🎧insulta
-├❏🎻Audio hentai
+├❏▶️buenas noches
+├❏▶️No pedí tu opinión
+├❏▶️Senpai
+├❏▶️esto va a ser épico
+├❏▶️insulta
+├❏▶️Audio hentai
 ├❏🎺Tiene la cara
-├❏🎸Fiesta del admin
-├❏🎷tengo
-├❏🎹tranquilo
+├❏▶️Fiesta del admin
+├❏▶️tengo
+├❏▶️tranquilo
 ├❏🎤Viernes
-├❏🥁Chica lgante
+├❏▶️Chica lgante
 ├❏🎧No soy pati
 ├❏🎻Baneado
 ├❏🎺Bien pensado woody
@@ -314,83 +314,83 @@ let str = `
 ├❏🎧manco
 ├❏🎻Me voy
 ├❏🎺Música desamor
-├❏🎸mitamita
-├❏🎷tuturu
-├❏🎹woau
-├❏🎤unga
-├❏🥁umai
-├❏🎧tututu
-├❏🎻uma
-├❏🎺uff
-├❏🎸Tara
-├❏🎷uchinchi
-├❏🎹talcho
-├❏🎤sss
-├❏🥁a
-├❏🎧Triste enojada toy
-├❏🎻Bot maricon
-├❏🎺Bot puto
-├❏🎸estúpido
-├❏🎷Un pato
-├❏🎹Nyanpasu
-├❏🎤El amor no existe
-├❏🥁Es todo lo que tiene que decir
-├❏🎧Muere por los humanos
-├❏🎻La biblia
-├❏🎺Otaku
-├❏🎸Hace frío
-├❏🎷Pikachu
-├❏🎹Niconi
-├❏🎤Mimir
-├❏🥁Beastars
-├❏🎧Manos
-├❏🎻Facha
-├❏🎺Sexual
-├❏🎸Mujer
-├❏🎷Cringe
-├❏🎹Konede
-├❏🎤Gambare
-├❏🥁Pack
-├❏🎧Temon
-├❏🎻Primo
-├❏🎺jaja quiero
-├❏🎸Kya
-├❏🎷rawr
-├❏🎹El mundo
-├❏🎤Nos vale
+├❏▶️mitamita
+├❏▶️tuturu
+├❏▶️woau
+├❏▶️unga
+├❏▶️umai
+├❏▶️tututu
+├❏▶️uma
+├❏▶️uff
+├❏▶️Tara
+├❏▶️uchinchi
+├❏▶️talcho
+├❏▶️sss
+├❏▶️a
+├❏▶️Triste enojada toy
+├❏▶️Bot maricon
+├❏▶️Bot puto
+├❏▶️estúpido
+├❏▶️Un pato
+├❏▶️Nyanpasu
+├❏▶️El amor no existe
+├❏▶️Es todo lo que tiene que decir
+├❏▶️Muere por los humanos
+├❏▶️La biblia
+├❏▶️Otaku
+├❏▶️Hace frío
+├❏▶️Pikachu
+├❏▶️Niconi
+├❏▶️Mimir
+├❏▶️Beastars
+├❏▶️Manos
+├❏▶️Facha
+├❏▶️Sexual
+├❏▶️Mujer
+├❏▶️Cringe
+├❏▶️Konede
+├❏▶️Gambare
+├❏▶️Pack
+├❏▶️Temon
+├❏▶️Primo
+├❏▶️jaja quiero
+├❏▶️Kya
+├❏▶️rawr
+├❏▶️El mundo
+├❏▶️Nos vale
 ├❏🥁Bot gemine
-├❏🎧Pespes
-├❏🎻Ora
-├❏🎺Hades bot
-├❏🎸Tori
-├❏🎷Oxxo
-├❏🎹Mi bot es le mejor
-├❏🎤Bunny
-├❏🥁cancion hades2
-├❏🎧cancion de hades
-├❏🎻Hades es un Dios
-├❏🎺llamando a seguridad_
-├❏🎸Atena_
-├❏🎷Que tonta eres_
-├❏🎹Bts      
-├❏🎤ara ara
-├❏🥁La bebecita
-├❏🎧Lol
-├❏🎻Feliz navidad
-├❏🎺Risa diabolica
-├❏🎸Te pasas
-├❏🎷Darling
-├❏🎹Elmo
-├❏🎤La lechuza
-├❏🥁ñi
-├❏🎧Éxtasis
-├❏🎻no te acerques
-├❏🎺Por que
-├❏🎸La mamare
-├❏🎷Lala
-├❏🎹Ya paso
-├❏🎤UwU
-├❏🥁Gracias bot
+├❏▶️Pespes
+├❏▶️Ora
+├❏▶️Hades bot
+├❏▶️Tori
+├❏▶️Oxxo
+├❏▶️Mi bot es le mejor
+├❏▶️Bunny
+├❏▶️cancion hades2
+├▶️cancion de hades
+├❏▶️Hades es un Dios
+├❏▶️llamando a seguridad_
+├❏▶️Atena_
+├❏▶️Que tonta eres_
+├❏▶️Bts      
+├❏▶️ara ara
+├❏▶️La bebecita
+├❏▶️Lol
+├❏▶️Feliz navidad
+├❏▶️Risa diabolica
+├❏▶️Te pasas
+├❏▶️Darling
+├❏▶️Elmo
+├❏▶️La lechuza
+├❏▶️ñi
+├❏▶️Éxtasis
+├❏▶️no te acerques
+├❏▶️Por que
+├❏▶️La mamare
+├❏▶️Lala
+├❏▶️Ya paso
+├❏▶️UwU
+├❏▶️Gracias bot
 └────ׂ─ׂ─ׂ─ׂ───
 ┌──「🎮𝐆𝐀𝐌𝐄」─
 ├❏🎡${usedPrefix}mates <noob / easy / medium / hard / extreme /impossible /impossible2>
@@ -446,41 +446,7 @@ let str = `
 ├❏🧑‍💻${usedPrefix}añadirdiamantes <@tag> <cantidad
 ├❏🏯${usedPrefix}añadirxp <@tag> <cantidad
 └────ׂ─ׂ─ׂ─ׂ───
-┌──「🧼𝐇𝐄𝐍𝐓𝐀𝐈」─
-├❏☔{usedPrefix}pack
-├❏🔞${usedPrefix}pack2
-├❏☄️${usedPrefix}pack3
-├❏🌚${usedPrefix}videoxxx
-├❏🧼${usedPrefix}tetas
-├❏☔${usedPrefix}booty
-├❏🔞${usedPrefix}ecchi
-├❏☄️${usedPrefix}furro
-├❏🌚${usedPrefix}imagenlesbians
-├❏🧼${usedPrefix}panties
-├❏☔${usedPrefix}pene
-├❏🔞${usedPrefix}porno
-├❏☄️${usedPrefix}porno2
-├❏🌚${usedPrefix}randomxxx
-├❏🧼${usedPrefix}pechos
-├❏☔${usedPrefix}vagina
-├❏🔞${usedPrefix}tetasgrandes
-├❏☄️${usedPrefix}pornovideo
-├❏🌚${usedPrefix}yaoi
-├❏🧼${usedPrefix}yaoi2
-├❏☔${usedPrefix}yuri
-├❏🔞${usedPrefix}yuri2
-├❏☄️${usedPrefix}trapito
-├❏🌚${usedPrefix}hentai
-├❏🧼${usedPrefix}pies
-├❏☔{usedPrefix}nsfwloli
-├❏🔞${usedPrefix}nsfworgy
-├❏☄️${usedPrefix}nsfwfoot
-├❏🌚${usedPrefix}nsfwass
-├❏🧼${usedPrefix}nsfwbdsm
-├❏☔${usedPrefix}nsfwcum
-├❏🔞️${usedPrefix}nsfwero
-├❏☄️${usedPrefix}nsfwfemdom
-├❏🧼${usedPrefix}nsfwglass
+┌
 └────ׂ─ׂ─ׂ─ׂ───
 ┌──「🛠𝐓𝐎𝐎𝐋𝐒 𝐌𝐄𝐍𝐔」
 ├❏🔧${usedPrefix}afk <motivo
@@ -510,10 +476,10 @@ externalAdReply: {
 showAdAttribution: true,
 mediaType: 'VIDEO',
 mediaUrl: null,
-title: '🍀𝐓𝐇𝐄-𝐇𝐀𝐃𝐄𝐒-𝐁𝐎𝐓-𝐌𝐃✨',
+title: 'Black-𝐁𝐎𝐓-𝐌𝐃✨',
 body: null,
 thumbnail: img,
-sourceUrl: `https://youtu.be/HoxZuQokeMM`
+sourceUrl: `https://chat.whatsapp.com/CBoAGmEFcCy44xIoWBSgzJ`
 }}}
 conn.sendMessage(m.chat, buttonMessage, { quoted: m })
 //await conn.sendFile(m.chat, vn, 'menu.mp3', null, m, true, { type: 'audioMessage', ptt: true})
